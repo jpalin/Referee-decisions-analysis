@@ -8,10 +8,10 @@ This repository contains the R code created to assess several questions into ref
 
 The questions investigated were as follows:
 
-Does a referee issuing early cards lead to a fairer match?
+Q1) Does a referee issuing early cards lead to a fairer match?
 
-Do referees perform differently when judging disciplinary actions?
+Q2) Do referees perform differently when judging disciplinary actions?
 
-Are referees influenced by previous games they have officiated?
+Q3) Are referees influenced by previous games they have officiated?
 
-Does a referee’s game management change after the first card?
+Q4) Does a referee’s game management change after the first card?
